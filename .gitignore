@@ -1,0 +1,12 @@
+### Gradle ###
+.gradle
+build
+
+### IntelliJ IDEA ###
+.idea
+greetings-service-microprofile.iml
+out
+
+### Payara-Micro ###
+derby.log
+.java-version
